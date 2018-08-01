@@ -1,3 +1,3 @@
-Hostel Management System 
+#Hostel Management System 
 
-Programming Lab Project
+A Programming Lab Project
